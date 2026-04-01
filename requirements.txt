@@ -1,0 +1,2 @@
+# Projeto inicial sem dependências externas.
+# Tudo roda só com a biblioteca padrão do Python.
